@@ -12,6 +12,8 @@ This project is to create an intelligent temperature controlled personal fan usi
 
 * BC108 transistor
 
+* MT3608 DC-DC step up converter
+
 ## Circuit diagram
 
 ![Circuit diagram](assets/circuit.png)
