@@ -15,8 +15,8 @@ if fan is turned on by user then
         temperature for turn on predicted value (elo) is recalculated 
     end if 
 
-    if turn off predicted temperature is lower that current temperature then
-        turn off predicted temperature 'wins'
+    if turn on predicted temperature is lower that current temperature then
+        turn on predicted temperature 'wins'
         temperature for predicted value (elo) is recalculated 
     end if
 
